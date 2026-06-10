@@ -16,7 +16,7 @@ class QuizBrain {
                 'Control Processing Unit',
                 'None'
             ],
-            correct: 0,
+            correct: 5,
         ),
         ];
 }
