@@ -8,15 +8,14 @@ class QuizBrain {
             correct: 1,
         ),
         Question(
-            q: 'What does GPU stand for?',
+            q: 'What does CPU stand for?',
             opts: [
                 'Central Processing Unit',
                 'Computer Personal Unit',
                 'Central Performance Unit',
-                'Control Processing Unit',
-                'None'
+                'Control Processing Unit'
             ],
-            correct: 5,
+            correct: 0,
         ),
         ];
 }
